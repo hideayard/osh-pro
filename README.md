@@ -1,2 +1,2 @@
 # osh-pro
-osh pro mobile
+osh pro website
